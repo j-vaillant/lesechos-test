@@ -16,15 +16,18 @@ type Props = {
 
 const NewsletterCard: FC<Props> = ({ newsletter: { title, description } }) => {
   return (
-    <Card>
-      <CardHeader className="bg-[#CECECE]">
+    <Card className="flex flex-col">
+      <CardHeader className="bg-[#CECECE] flex-2 basis-[60%]">
         <CardTitle>{title}</CardTitle>
-        <CardDescription>{description}</CardDescription>
       </CardHeader>
-      <CardContent></CardContent>
-      <CardFooter className="flex justify-between">
-        <Button variant="outline">Cancel</Button>
-        <Button>Deploy</Button>
+      <CardContent className="flex-1">{description}</CardContent>
+      <CardFooter className="flex justify-center">
+        <Button
+          className="rounded-xl text-white font-sans bg-[#B00005]"
+          variant="outline"
+        >
+          Cancel
+        </Button>
       </CardFooter>
     </Card>
   );
