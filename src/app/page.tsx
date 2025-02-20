@@ -2,8 +2,19 @@ import NewslettersList from "@/components/NewslettersCategories";
 import { NEWSLETTER_ITEMS } from "@/mocks/newsletters";
 import { formatNewsletters } from "@/utils";
 import "./globals.css";
+import { FC } from "react";
+import { User } from "@/types";
+import {
+  USER_WITH_ONE_SUBSCRIPTION,
+  USER_WITHOUT_SUBSCRIPTION,
+  USER_WITH_MULTIPLE_SUBSCRIPTION,
+} from "@/mocks/user";
 
-export default function App() {
+type Props = {
+  user: User;
+};
+
+const App: FC<Props> = ({ user = USER_WITHOUT_SUBSCRIPTION }) => {
   return (
     <>
       <div className="w-[970px] mx-auto">
@@ -18,8 +29,13 @@ export default function App() {
             l’inscription à vos newsletters.
           </span>
         </div>
-        <NewslettersList data={formatNewsletters(NEWSLETTER_ITEMS)} />
+        <NewslettersList
+          user={user}
+          data={formatNewsletters(NEWSLETTER_ITEMS)}
+        />
       </div>
     </>
   );
-}
+};
+
+export default App;
