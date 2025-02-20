@@ -1,0 +1,1822 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`newsletter subscription should render correctly for user with one subscrtiption 1`] = `
+<div>
+  <div
+    class="sm:w-full md:w-[970px] mx-auto"
+  >
+    <div
+      class="w-full p-3 flex-col justify-center items-center flex h-[135px] font-sans bg-[#F4F4F4] mb-6"
+    >
+      <h1
+        class="font-semibold mb-2 rounded-md text-3xl"
+      >
+        NEWSLETTERS
+      </h1>
+      <span
+        class="font-sans inline-block text-center text-[#212121]"
+      >
+        Dans cette page, vous retrouvez l’ensemble des newsletters des Echos et des marques satellites. Ainsi, vous pouvez découvrir toutes nos newsletters selon vos centres d’intérêt et gérer plus facilement l’inscription à vos newsletters.
+      </span>
+    </div>
+    <div>
+      <h2
+        class="relative font-semibold text-2xl font-sans mb-[45px] inline-block after:content-[''] after:w-2/3 after:block after:absolute after:left-0 after:right-0 after:top-8 after:h-[4px] after:bg-[#B00005] after:-z-10"
+      >
+        WEEKLY WONDERS
+      </h2>
+      <div
+        class="grid sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 mb-[24px]"
+      >
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Weekly Wonders
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Dive into the unknown with this week's spotlight!
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Thrilling Thursdays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Discover the thrill of innovation.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Mystery and Magic
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Mysteries and magic await in our latest feature.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Artistic Avenues
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Exploring the intersection of art and life.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Fashion Finds
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            The latest and greatest in global fashion.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <h2
+        class="relative font-semibold text-2xl font-sans mb-[45px] inline-block after:content-[''] after:w-2/3 after:block after:absolute after:left-0 after:right-0 after:top-8 after:h-[4px] after:bg-[#B00005] after:-z-10"
+      >
+        MARVELOUS MONDAYS
+      </h2>
+      <div
+        class="grid sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 mb-[24px]"
+      >
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Marvelous Mondays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Kickstart your week with a burst of inspiration.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Fun Fridays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Wrap up your week on a high note.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Tech Titans
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Tech trends and titans: this week's must-read.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Culinary Quests
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Culinary adventures that tantalize the taste buds.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Music Moments
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Musical moments that moved the world.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <h2
+        class="relative font-semibold text-2xl font-sans mb-[45px] inline-block after:content-[''] after:w-2/3 after:block after:absolute after:left-0 after:right-0 after:top-8 after:h-[4px] after:bg-[#B00005] after:-z-10"
+      >
+        TERRIFIC TUESDAYS
+      </h2>
+      <div
+        class="grid sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 mb-[24px]"
+      >
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Terrific Tuesdays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Tuesdays just got a lot more exciting!
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Sensational Saturdays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Weekend wonders to amaze and delight.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Historical Highlights
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            A blast from the past with a modern twist.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Traveler's Tales
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Tales from the trail: the world is your oyster.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Cinema Circles
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Cinematic celebrations for every cinephile.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <h2
+        class="relative font-semibold text-2xl font-sans mb-[45px] inline-block after:content-[''] after:w-2/3 after:block after:absolute after:left-0 after:right-0 after:top-8 after:h-[4px] after:bg-[#B00005] after:-z-10"
+      >
+        WACKY WEDNESDAYS
+      </h2>
+      <div
+        class="grid sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 mb-[24px]"
+      >
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Wacky Wednesdays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Midweek madness unleashed.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Serene Sundays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Unwind with our serene selection for Sunday.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Future Frontiers
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Futuristic fantasies turned reality.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Sporting Spirits
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Celebrating the spirit of sport and competition.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Literary Landscapes
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Literary gems to add to your collection.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`newsletter subscription should render correctly for user with two subscrtiptions 1`] = `
+<div>
+  <div
+    class="sm:w-full md:w-[970px] mx-auto"
+  >
+    <div
+      class="w-full p-3 flex-col justify-center items-center flex h-[135px] font-sans bg-[#F4F4F4] mb-6"
+    >
+      <h1
+        class="font-semibold mb-2 rounded-md text-3xl"
+      >
+        NEWSLETTERS
+      </h1>
+      <span
+        class="font-sans inline-block text-center text-[#212121]"
+      >
+        Dans cette page, vous retrouvez l’ensemble des newsletters des Echos et des marques satellites. Ainsi, vous pouvez découvrir toutes nos newsletters selon vos centres d’intérêt et gérer plus facilement l’inscription à vos newsletters.
+      </span>
+    </div>
+    <div>
+      <h2
+        class="relative font-semibold text-2xl font-sans mb-[45px] inline-block after:content-[''] after:w-2/3 after:block after:absolute after:left-0 after:right-0 after:top-8 after:h-[4px] after:bg-[#B00005] after:-z-10"
+      >
+        WEEKLY WONDERS
+      </h2>
+      <div
+        class="grid sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 mb-[24px]"
+      >
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Weekly Wonders
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Dive into the unknown with this week's spotlight!
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Thrilling Thursdays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Discover the thrill of innovation.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Mystery and Magic
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Mysteries and magic await in our latest feature.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Artistic Avenues
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Exploring the intersection of art and life.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Fashion Finds
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            The latest and greatest in global fashion.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <h2
+        class="relative font-semibold text-2xl font-sans mb-[45px] inline-block after:content-[''] after:w-2/3 after:block after:absolute after:left-0 after:right-0 after:top-8 after:h-[4px] after:bg-[#B00005] after:-z-10"
+      >
+        MARVELOUS MONDAYS
+      </h2>
+      <div
+        class="grid sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 mb-[24px]"
+      >
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Marvelous Mondays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Kickstart your week with a burst of inspiration.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Fun Fridays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Wrap up your week on a high note.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Tech Titans
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Tech trends and titans: this week's must-read.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Culinary Quests
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Culinary adventures that tantalize the taste buds.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Music Moments
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Musical moments that moved the world.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <h2
+        class="relative font-semibold text-2xl font-sans mb-[45px] inline-block after:content-[''] after:w-2/3 after:block after:absolute after:left-0 after:right-0 after:top-8 after:h-[4px] after:bg-[#B00005] after:-z-10"
+      >
+        TERRIFIC TUESDAYS
+      </h2>
+      <div
+        class="grid sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 mb-[24px]"
+      >
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Terrific Tuesdays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Tuesdays just got a lot more exciting!
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Sensational Saturdays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Weekend wonders to amaze and delight.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Historical Highlights
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            A blast from the past with a modern twist.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Traveler's Tales
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Tales from the trail: the world is your oyster.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Cinema Circles
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Cinematic celebrations for every cinephile.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <h2
+        class="relative font-semibold text-2xl font-sans mb-[45px] inline-block after:content-[''] after:w-2/3 after:block after:absolute after:left-0 after:right-0 after:top-8 after:h-[4px] after:bg-[#B00005] after:-z-10"
+      >
+        WACKY WEDNESDAYS
+      </h2>
+      <div
+        class="grid sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 mb-[24px]"
+      >
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Wacky Wednesdays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Midweek madness unleashed.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Serene Sundays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Unwind with our serene selection for Sunday.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Future Frontiers
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Futuristic fantasies turned reality.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Sporting Spirits
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Celebrating the spirit of sport and competition.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Literary Landscapes
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Literary gems to add to your collection.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`newsletter subscription should render correctly for user without subscrtiptions 1`] = `
+<div>
+  <div
+    class="sm:w-full md:w-[970px] mx-auto"
+  >
+    <div
+      class="w-full p-3 flex-col justify-center items-center flex h-[135px] font-sans bg-[#F4F4F4] mb-6"
+    >
+      <h1
+        class="font-semibold mb-2 rounded-md text-3xl"
+      >
+        NEWSLETTERS
+      </h1>
+      <span
+        class="font-sans inline-block text-center text-[#212121]"
+      >
+        Dans cette page, vous retrouvez l’ensemble des newsletters des Echos et des marques satellites. Ainsi, vous pouvez découvrir toutes nos newsletters selon vos centres d’intérêt et gérer plus facilement l’inscription à vos newsletters.
+      </span>
+    </div>
+    <div>
+      <h2
+        class="relative font-semibold text-2xl font-sans mb-[45px] inline-block after:content-[''] after:w-2/3 after:block after:absolute after:left-0 after:right-0 after:top-8 after:h-[4px] after:bg-[#B00005] after:-z-10"
+      >
+        WEEKLY WONDERS
+      </h2>
+      <div
+        class="grid sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 mb-[24px]"
+      >
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Weekly Wonders
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Dive into the unknown with this week's spotlight!
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Thrilling Thursdays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Discover the thrill of innovation.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Mystery and Magic
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Mysteries and magic await in our latest feature.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Artistic Avenues
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Exploring the intersection of art and life.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Fashion Finds
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            The latest and greatest in global fashion.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <h2
+        class="relative font-semibold text-2xl font-sans mb-[45px] inline-block after:content-[''] after:w-2/3 after:block after:absolute after:left-0 after:right-0 after:top-8 after:h-[4px] after:bg-[#B00005] after:-z-10"
+      >
+        MARVELOUS MONDAYS
+      </h2>
+      <div
+        class="grid sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 mb-[24px]"
+      >
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Marvelous Mondays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Kickstart your week with a burst of inspiration.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Fun Fridays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Wrap up your week on a high note.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Tech Titans
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Tech trends and titans: this week's must-read.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Culinary Quests
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Culinary adventures that tantalize the taste buds.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Music Moments
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Musical moments that moved the world.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <h2
+        class="relative font-semibold text-2xl font-sans mb-[45px] inline-block after:content-[''] after:w-2/3 after:block after:absolute after:left-0 after:right-0 after:top-8 after:h-[4px] after:bg-[#B00005] after:-z-10"
+      >
+        TERRIFIC TUESDAYS
+      </h2>
+      <div
+        class="grid sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 mb-[24px]"
+      >
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Terrific Tuesdays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Tuesdays just got a lot more exciting!
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Sensational Saturdays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Weekend wonders to amaze and delight.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Historical Highlights
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            A blast from the past with a modern twist.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Traveler's Tales
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Tales from the trail: the world is your oyster.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Cinema Circles
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Cinematic celebrations for every cinephile.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <h2
+        class="relative font-semibold text-2xl font-sans mb-[45px] inline-block after:content-[''] after:w-2/3 after:block after:absolute after:left-0 after:right-0 after:top-8 after:h-[4px] after:bg-[#B00005] after:-z-10"
+      >
+        WACKY WEDNESDAYS
+      </h2>
+      <div
+        class="grid sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 mb-[24px]"
+      >
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Wacky Wednesdays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Midweek madness unleashed.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Serene Sundays
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Unwind with our serene selection for Sunday.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Future Frontiers
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Futuristic fantasies turned reality.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Sporting Spirits
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Celebrating the spirit of sport and competition.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl font-sans bg-[#FAEC70] text-black"
+            >
+              S'inscrire
+            </button>
+          </div>
+        </div>
+        <div
+          class="rounded-lg border bg-card text-card-foreground shadow-sm flex flex-col h-[300px]"
+        >
+          <div
+            class="flex flex-col space-y-1.5 p-6 bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]"
+          >
+            <div
+              class="text-2xl font-semibold leading-none tracking-tight [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+            >
+              Literary Landscapes
+            </div>
+          </div>
+          <div
+            class="flex-1 font-sans text-center p-2"
+          >
+            Literary gems to add to your collection.
+          </div>
+          <div
+            class="items-center p-6 pt-0 flex justify-center"
+          >
+            <button
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl text-white font-sans bg-[#B00005]"
+            >
+              S'abonner
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,20 +1,25 @@
-import NewslettersList from "@/components/NewslettersCategories";
+import { FC } from "react";
+
+import NewslettersCategories from "@/components/NewslettersCategories";
 import { NEWSLETTER_ITEMS } from "@/mocks/newsletters";
 import { formatNewsletters } from "@/utils";
-import "./globals.css";
-import { FC } from "react";
+
 import { User } from "@/types";
-import {
-  USER_WITH_ONE_SUBSCRIPTION,
-  USER_WITHOUT_SUBSCRIPTION,
-  USER_WITH_MULTIPLE_SUBSCRIPTION,
-} from "@/mocks/user";
+import { USER_WITH_ONE_SUBSCRIPTION } from "@/mocks/user";
+
+import "./globals.css";
 
 type Props = {
   user: User;
 };
 
-const App: FC<Props> = ({ user = USER_WITHOUT_SUBSCRIPTION }) => {
+const fetchData = async () => {
+  return Promise.resolve(NEWSLETTER_ITEMS);
+};
+
+const App: FC<Props> = async ({ user = USER_WITH_ONE_SUBSCRIPTION }) => {
+  const data = await fetchData();
+
   return (
     <>
       <div className="sm:w-full md:w-[970px] mx-auto">
@@ -29,10 +34,7 @@ const App: FC<Props> = ({ user = USER_WITHOUT_SUBSCRIPTION }) => {
             l’inscription à vos newsletters.
           </span>
         </div>
-        <NewslettersList
-          user={user}
-          data={formatNewsletters(NEWSLETTER_ITEMS)}
-        />
+        <NewslettersCategories user={user} data={formatNewsletters(data)} />
       </div>
     </>
   );
