@@ -21,7 +21,7 @@ const NewsletterCard: FC<Props> = ({
 }) => {
   return (
     <Card className="flex flex-col h-[300px]">
-      <CardHeader className="bg-[#CECECE] items-center justify-center text-white  flex-2 basis-[60%]">
+      <CardHeader className="bg-[#CECECE] items-center justify-center text-white flex-2 basis-[60%]">
         <CardTitle className="[text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]">
           {title}
         </CardTitle>

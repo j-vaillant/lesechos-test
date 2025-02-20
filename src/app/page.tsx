@@ -17,7 +17,7 @@ type Props = {
 const App: FC<Props> = ({ user = USER_WITHOUT_SUBSCRIPTION }) => {
   return (
     <>
-      <div className="w-[970px] mx-auto">
+      <div className="sm:w-full md:w-[970px] mx-auto">
         <div className="w-full p-3 flex-col justify-center items-center flex h-[135px] font-sans bg-[#F4F4F4] mb-6">
           <h1 className="font-semibold mb-2 rounded-md text-3xl">
             NEWSLETTERS

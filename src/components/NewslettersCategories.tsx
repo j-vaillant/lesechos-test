@@ -31,7 +31,7 @@ const NewslettersCategories: FC<Props> = ({ data, user }) => {
         <h2 className="relative font-semibold text-2xl font-sans mb-[45px] inline-block after:content-[''] after:w-2/3 after:block after:absolute after:left-0 after:right-0 after:top-8 after:h-[4px] after:bg-[#B00005] after:-z-10">
           {title.toUpperCase()}
         </h2>
-        <div className="grid grid-cols-3 gap-4 mb-[24px]">
+        <div className="grid sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 mb-[24px]">
           {newsLetterData.map((n) => {
             return (
               <NewsletterCard
